@@ -4,11 +4,7 @@
 <h4 align="center">Passionate gamedev and Web3 enthusiast</h4>
 </div>
 
-<div align="center">
-  <a href="https://github.com/devrafaeltr/">
-  <img  src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/devrafaeltr-snake.svg"
-       alt="snake" /></a>
-</div>
+![Github Snake - Dark](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Github Snake - White](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 🔭 Working on a PC game to be released on Steam and some mobile games with my little brother.<br>🌱 Currently learning Unity DOTS and Web3 Ecosystem<br>⚡ Curiosity: I exhibited a game at CCXP (Brazil's Comic Con)
 
