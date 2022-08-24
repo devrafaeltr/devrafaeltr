@@ -8,21 +8,6 @@
 🔭 Working on a PC game to be released on Steam and some mobile games with my little brother.<br>🌱 Currently learning Unity DOTS and Web3 Ecosystem<br>⚡ Curiosity: I exhibited a game at CCXP (Brazil's Comic Con)
 
 <details>
-  <summary>🌐 Socials</summary>
-<div>
-    <p align="center">
-      <br/>
-      <a href="https://www.linkedin.com/in/devrafaelribeiro/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
-         alt="Linkedin" height="30"/></a>
-      <a href="https://twitter.com/_rafaeltr" target="blank"><img align="center"
-         src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"
-         alt="Twitter" height="30"/></a>
-    </p>
-</div>
-</details>
-
-<details>
   <summary>💻 Tech Stack</summary>
 <div>
     <p align="center">
@@ -54,10 +39,25 @@
       <br/> 
       <p align="center">
           <a href="https://github.com/devrafaeltr/">
-          <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaeltr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="devrafaeltr - Most used programming languages" />
-          <img width="33%" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"  />
-          <img width="33%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaeltr&theme=gruvbox&hide_border=true" alt="devrafaeltr - Contribution" />
+          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaeltr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="devrafaeltr - Most used programming languages" /></br>
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"  />
+          <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaeltr&theme=gruvbox&hide_border=true" alt="devrafaeltr - Contribution" />
           </a>
         </p>
+</div>
+</details>
+
+<details>
+  <summary>🌐 Socials</summary>
+<div>
+    <p align="center">
+      <br/>
+      <a href="https://www.linkedin.com/in/devrafaelribeiro/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
+         alt="Linkedin" height="30"/></a>
+      <a href="https://twitter.com/_rafaeltr" target="blank"><img align="center"
+         src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white"
+         alt="Twitter" height="30"/></a>
+    </p>
 </div>
 </details>
