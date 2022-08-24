@@ -1,4 +1,15 @@
 # 🧑‍💻 About Me:
+<div align="center">
+<h1 align="center">Hi <img width="35" src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/waving.gif">, I'm devrafaeltr</h1>
+<h4 align="center">Passionate gamedev and Web3 enthusiast</h4>
+</div>
+
+<div align="center">
+  <a href="https://github.com/devrafaeltr/">
+  <img  src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
+
 🔭 Working on a PC game to be released on Steam and some mobile games with my little brother.<br>🌱 Currently learning Unity DOTS and Web3 Ecosystem<br>⚡ Curiosity: I exhibited a game at CCXP (Brazil's Comic Con)
 
 <details>
