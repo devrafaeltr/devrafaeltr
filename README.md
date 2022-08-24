@@ -6,7 +6,7 @@
 
 <div align="center">
   <a href="https://github.com/devrafaeltr/">
-  <img  src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/grid-snake.svg"
+  <img  src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/devrafaeltr-snake.svg"
        alt="snake" /></a>
 </div>
 
