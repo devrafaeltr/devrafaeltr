@@ -39,8 +39,8 @@
       <br/> 
       <p align="center">
           <a href="https://github.com/devrafaeltr/">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaeltr&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="devrafaeltr - Most used programming languages" /></br>
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"  />
+          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaeltr&theme=gruvbox&layout=compact&hide_border=true" alt="devrafaeltr - Most used programming languages" /></br>
+          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"  />
           <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaeltr&theme=gruvbox&hide_border=true" alt="devrafaeltr - Contribution" />
           </a>
         </p>
