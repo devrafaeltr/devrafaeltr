@@ -24,20 +24,16 @@
     <p align="left">
       <img align="center" href="https://unity.com/"
          src="https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity"
-         alt="Unity" height="30"/></a>
-  <img align="center" href="https://docs.microsoft.com/en-us/dotnet/csharp/"
+         alt="Unity" height="30"/>
+      <img align="center" href="https://docs.microsoft.com/en-us/dotnet/csharp/"
          src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
-         alt="C#" height="30"/></a>
-  <img align="center" href="https://www.heroku.com/"
-         src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"
-         alt="Heroku" height="30"/></a>
-         <img align="center" href="https://aws.amazon.com/"
+         alt="C#" height="30"/>
+       <img align="center" href="https://aws.amazon.com/"
          src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"
-         alt="AWS" height="30"/></a>
-         <img align="center" href="https://firebase.google.com/"
+         alt="AWS" height="30"/>
+       <img align="center" href="https://firebase.google.com/"
          src="https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase"
-         alt="Firebase" height="30"/></a>
-         <img align="center"
+         alt="Firebase" height="30"/>
     </p>
 </div>
 
