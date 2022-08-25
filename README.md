@@ -1,17 +1,27 @@
 <div align="center">
-<h1 align="center">Hi <img width="35" src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/waving.gif">, I'm devrafaeltr</h1>
-<h4 align="center">Passionate gamedev | Web3 enthusiast</h4>
+  <h1 align="center">Hi <img width="35" src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/waving.gif">, I'm devrafaeltr</h1>
+  <h4 align="center">Passionate gamedev | Web3 enthusiast | Working on Steam release and mobile games</h4>
 </div>
 
-![Github Snake - Dark](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Github Snake - White](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Github Snake - Dark](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Github Snake - White](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
 
-🔭 Working on a PC game to be released on Steam and some mobile games with my little brother.<br>🌱 Currently learning Unity DOTS and Web3 Ecosystem<br>⚡ Curiosity: I exhibited a game at CCXP (Brazil's Comic Con)
 
-<details>
-  <summary>💻 Tech Stack</summary>
+## 📊 GitHub Stats
 <div>
     <p align="center">
-      <br/>
+      <p align="center">
+          <a href="https://github.com/devrafaeltr/">
+          <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaeltr&theme=gruvbox&layout=compact&hide_border=true" alt="devrafaeltr - Most used programming languages" /></br>
+          <img width="40%" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"  />
+          <img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaeltr&theme=gruvbox&hide_border=true" alt="devrafaeltr - Contribution" />
+          </a>
+      </p>
+</div>
+
+## 💻 Tech Stack
+
+<div>
+    <p align="left">
       <img align="center" href="https://unity.com/"
          src="https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity"
          alt="Unity" height="30"/></a>
@@ -30,28 +40,10 @@
          <img align="center"
     </p>
 </div>
-</details>
 
-<details>
-  <summary>📊 GitHub Stats</summary>
+## 🌐 Socials
 <div>
-    <p align="center">
-      <br/> 
-      <p align="center">
-          <a href="https://github.com/devrafaeltr/">
-          <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devrafaeltr&theme=gruvbox&layout=compact&hide_border=true" alt="devrafaeltr - Most used programming languages" /></br>
-          <img width="45%" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"  />
-          <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaeltr&theme=gruvbox&hide_border=true" alt="devrafaeltr - Contribution" />
-          </a>
-        </p>
-</div>
-</details>
-
-<details>
-  <summary>🌐 Socials</summary>
-<div>
-    <p align="center">
-      <br/>
+    <p align="left">
       <a href="https://www.linkedin.com/in/devrafaelribeiro/" target="blank"><img align="center"
          src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"
          alt="Linkedin" height="30"/></a>
@@ -60,4 +52,3 @@
          alt="Twitter" height="30"/></a>
     </p>
 </div>
-</details>
