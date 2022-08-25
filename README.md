@@ -25,6 +25,9 @@
       <img align="center" href="https://unity.com/"
          src="https://img.shields.io/badge/Unity-gray?style=for-the-badge&logo=unity"
          alt="Unity" height="30"/>
+      <img align="center" href="https://code.visualstudio.com/"
+         src="https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudio"
+         alt="VSCode" height="30"/>
       <img align="center" href="https://docs.microsoft.com/en-us/dotnet/csharp/"
          src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"
          alt="C#" height="30"/>
