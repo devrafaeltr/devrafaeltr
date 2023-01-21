@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi <img width="35" src="https://github.com/devrafaeltr/devrafaeltr/blob/main/resources/img/waving.gif">, I'm devrafaeltr</h1>
-  <h4 align="center">Passionate gamedev | Web3 enthusiast | Working on Steam release and mobile games</h4>
+  <h4 align="center">Passionate gamedev | Working on Steam release and mobile games</h4>
 </div>
 
 ![Github Snake - Dark](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Github Snake - White](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
