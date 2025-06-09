@@ -5,18 +5,6 @@
 
 ![Github Snake - Dark](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![Github Snake - White](https://raw.githubusercontent.com/devrafaeltr/devrafaeltr/output/github-contribution-grid-snake.svg#gh-light-mode-only)  
 
-
-## 📊 GitHub Stats
-<div>
-    <p align="center">
-      <p align="center">
-          <a href="https://github.com/devrafaeltr/">
-          <img width="40%" height="200" src="https://github-readme-stats.vercel.app/api?username=devrafaeltr&show_icons=true&count_private=true&include_all_commits=true&theme=gruvbox&hide_border=true" alt="devrafaeltr - Stats"/> </br>
-          <img width="40%" height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=devrafaeltr&theme=gruvbox&hide_border=true" alt="devrafaeltr - Contribution"/>
-          </a>
-      </p>
-</div>
-
 ## 💻 Tech Stack
 
 <div>
